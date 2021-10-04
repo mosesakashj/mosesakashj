@@ -11,9 +11,9 @@
 <!-- <a href="https://medium.com/@unlu-fa" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@unlu-fa">
 </a> -->
-<a href="https://www.linkedin.com/in/fatih-unlu" target="_blank">
+<a href="https://www.linkedin.com/in/moses-akash-j-45951b1b6/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/moses-akash-j-45951b1b6/">
 </a>
-<a href="mailto:unlu.fa@gmail.com" target="_blank">
+<a href="mailto:mosesakah.j@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:mosesakah.j@gmail.com">
 </a>
